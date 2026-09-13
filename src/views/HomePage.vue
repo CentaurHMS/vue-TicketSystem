@@ -1,13 +1,11 @@
 <script setup lang="ts">
-  import SideBar from '@/components/layouts/SideBar.vue'
-
-  defineOptions({
+defineOptions({
     name: "HomePage",
   })
 </script>
 
 <template>
-  <side-bar></side-bar>
+  我是主页
 </template>
 
 <style scoped></style>
